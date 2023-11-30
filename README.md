@@ -10,8 +10,7 @@
 📫 How to reach me:
 
 - Twiter: [@Guiziii](https://twitter.com/Guiziii)
-- Linkedin: [cleilson-pereira](https://www.linkedin.com/in/cleilson-pereira-b2aaaa35/)
-- My Site: [https://cleilsontechinfo.netlify.app](https://cleilsontechinfo.netlify.app/)
+- Linkedin: [Guilherme Cruz](https://www.linkedin.com/in/guilherme-cruz-a6146a72/)
 - CV: [Guiziii.github.io](https://Guiziii.github.io/)
 
 <!--
