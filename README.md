@@ -11,7 +11,6 @@
 
 - Twiter: [@Guiziii](https://twitter.com/Guiziii)
 - Linkedin: [Guilherme Cruz](https://www.linkedin.com/in/guilherme-cruz-a6146a72/)
-- CV: [Guiziii.github.io](https://Guiziii.github.io/)
 
 <!--
 **Guiziii/Guiziii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
