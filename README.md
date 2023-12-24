@@ -27,12 +27,28 @@ Here are some ideas to get you started:
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Guiziii&hide_border=true)
-
+ 
 
 <p align="left">
+  
 <a href="https://github.com/Guiziii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Guiziii&count_private=true&show_icons=true" alt="Guiziii"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guiziii&layout=compact&langs_count=8"/>
+  <img height="25%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guiziii&layout=compact&langs_count=8"/>
+  <br/>
+  <img width="42.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guiziii&show_icons=true&locale=en&theme=radical" alt="Guiziii" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=guiziii&theme=radical" alt="mahdeensky" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahdeenSky/MahdeenSky/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahdeenSky/MahdeenSky/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+  
 </a>
 </p>
+
+
+ 
+<p align="center">
+ 
+</p>
+
