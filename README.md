@@ -7,7 +7,6 @@
 
 ### How to reach me 📫 
 
-- Twiter: [@Guiziii](https://twitter.com/Guiziii)
 - Linkedin: [Guilherme Cruz](https://www.linkedin.com/in/guilherme-cruz-a6146a72/)
 
 <!--
