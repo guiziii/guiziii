@@ -72,28 +72,28 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 
 ## 🔭 Projects
 
-### [fe-components](https://github.com/Guiziii/fe-components)
+### [Fe-components](https://github.com/Guiziii/fe-components)
 - **Description:** A library of reusable and customizable frontend components designed to streamline development and enhance user experience. Built with modern web technologies, it offers responsive,…
 - **Tech Stack:** TypeScript
 
-### [FacialRecognition](https://github.com/Guiziii/FacialRecognition)
+### [Facial Recognition](https://github.com/Guiziii/FacialRecognition)
 - **Description:** Python API Script that analyzes two pictures and then say if it is the same person.
 - **Tech Stack:** Python
 
-### [flask](https://github.com/Guiziii/flask)
+### [Flask API](https://github.com/Guiziii/flask)
 - **Description:** Flask-based web application.
 - **Tech Stack:** Python
 
-### [translationAPI](https://github.com/Guiziii/translationAPI)
+### [Translation API](https://github.com/Guiziii/translationAPI)
 - **Description:** API for translating text using various translation services.
 - **Tech Stack:** Python
 
 
-### [ChatGPTListener](https://github.com/Guiziii/ChatGPTListener)
+### [ChatGPT Listener](https://github.com/Guiziii/ChatGPTListener)
 - **Description:** Virtual assistant created to access websites with voice commands and interact with ChatGPT.
 - **Tech Stack:** Python
 
-### [Drummond](https://github.com/Guiziii/Drummond)
+### [Drummond Monorepo](https://github.com/Guiziii/Drummond)
 - **Description:** Example of an international monorepo with form registration using Firebase Auth for authentication, NestJS with Swagger for BackEnd with MongoDB.
 - **Tech Stack:** TypeScript
 
