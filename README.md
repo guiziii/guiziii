@@ -73,29 +73,36 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ## 🔭 Projects
 
 ### [Fe-components](https://github.com/Guiziii/fe-components)
-- **Description:** A library of reusable and customizable frontend components designed to streamline development and enhance user experience. Built with modern web technologies, it offers responsive,…
-- **Tech Stack:** TypeScript
+- **Description:** A library of reusable and customizable frontend components designed to streamline development and enhance user experience.
+  
+- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 ### [Facial Recognition](https://github.com/Guiziii/FacialRecognition)
 - **Description:** Python API Script that analyzes two pictures and then say if it is the same person.
-- **Tech Stack:** Python
+  
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### [Flask API](https://github.com/Guiziii/flask)
 - **Description:** Flask-based web application.
-- **Tech Stack:** Python
+  
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### [Translation API](https://github.com/Guiziii/translationAPI)
 - **Description:** API for translating text using various translation services.
-- **Tech Stack:** Python
+  
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
 ### [ChatGPT Listener](https://github.com/Guiziii/ChatGPTListener)
 - **Description:** Virtual assistant created to access websites with voice commands and interact with ChatGPT.
-- **Tech Stack:** Python
+  
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### [Drummond Monorepo](https://github.com/Guiziii/Drummond)
 - **Description:** Example of an international monorepo with form registration using Firebase Auth for authentication, NestJS with Swagger for BackEnd with MongoDB.
-- **Tech Stack:** TypeScript
+  
+- **Tech Stack:**
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 ## 🌱 Currently Learning
 
