@@ -2,7 +2,7 @@
   <img src="https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5f0a309642c1865c609c1cac/90786249d0f501a332057f8db5f01ac3/bc9853a836254c4e926b405fa665ba19.gif" alt="Development GIF">
 </p>
 
-# Welcome to My Profile! 👋
+# Welcome! 👋
 
 Hi there! I'm Guilherme Cruz, a passionate developer with an addiction for innovative solutions. Welcome to my GitHub profile where you can find my latest projects and contributions.
 
