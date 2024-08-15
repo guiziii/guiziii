@@ -24,7 +24,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 
-### 📚 Frameworks/Libraries
+### 📚 Frameworks / Libraries
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
