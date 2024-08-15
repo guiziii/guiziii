@@ -109,7 +109,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 
 - Machine Learning with Python
 
-## Analytics ⚙️
+## ⚙️ Analytics 
 
 <p align="left">
   <a href="https://github.com/Guiziii">
