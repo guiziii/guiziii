@@ -19,7 +19,23 @@ Hi there! I'm Guilherme Cruz, a passionate developer with an addiction for innov
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=dotnet)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+
+
 
 ## 🔭 Projects
 
