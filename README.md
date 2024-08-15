@@ -88,10 +88,6 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 - **Description:** API for translating text using various translation services.
 - **Tech Stack:** Python
 
-### [simple-proxy](https://github.com/Guiziii/simple-proxy)
-- **Description:** Simple proxy for a Cloudflare worker.
-- **Tech Stack:** TypeScript
-- **License:** MIT
 
 ### [ChatGPTListener](https://github.com/Guiziii/ChatGPTListener)
 - **Description:** Virtual assistant created to access websites with voice commands and interact with ChatGPT.
