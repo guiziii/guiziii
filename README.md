@@ -4,7 +4,9 @@
 
 # Welcome! 👋
 
-Hi there! I'm Guilherme Cruz, a passionate developer with an addiction for innovative solutions. Welcome to my GitHub profile where you can find my latest projects and contributions.
+Hi there! I'm Guilherme Cruz, a passionate developer with a keen interest in innovative solutions. 
+
+Welcome to my GitHub profile, where you can explore my latest projects and contributions.
 
 ## How to reach me 📫
 
