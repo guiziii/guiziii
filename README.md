@@ -11,6 +11,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ## How to reach me 📫
 
 - **LinkedIn:** [Guilherme Cruz](https://www.linkedin.com/in/guilherme-cruz-a6146a72/)
+  
 - **Email:** [zuurc@hotmail.com](mailto:zuurc@hotmail.com)
 
 ## 🛠️ Skills & Tools
