@@ -94,14 +94,14 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
   
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-### [Drummond Monorepo](https://github.com/Guiziii/Drummond)
+### [Drummond - Tech assessment](https://github.com/Guiziii/Drummond)
 - **Description:** Drummond is a full-stack form registration platform built with a modern monorepo architecture using NestJS, MongoDB, and React (Vite). The system provides authenticated access via Firebase, secure API endpoints documented with Swagger, and a responsive UI built with MUI.
   
 - **Tech Stack:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 
 
-### [Posterr](https://github.com/Guiziii/Posterr)
+### [Posterr - Tech assessment](https://github.com/Guiziii/Posterr)
 - **Description:** Posterr is a full-stack application built with React.js (TypeScript) and .NET (C#), leveraging SQL Server and Entity Framework for structured relational data management. The project is fully containerized, version-controlled with clean Git history, and designed to demonstrate architectural clarity, API-layer separation, and database normalization.
   
 - **Tech Stack:**
