@@ -76,7 +76,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ### [Fe-components](https://github.com/Guiziii/fe-components)
 - **Description:** A library of reusable and customizable frontend components designed to streamline development and enhance user experience.
   
-- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ### [Facial Recognition API](https://github.com/guiziii/Facial-Recognition-API)
 - **Description:** Python API Script that analyzes two pictures and then say if it is the same person.
@@ -91,13 +91,13 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ### [Jarvis AI Voice Assistant](https://github.com/Guiziii/Jarvis)
 - **Description:** Virtual assistant created to access websites with voice commands and interact with ChatGPT.
   
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ### [Drummond Monorepo](https://github.com/Guiziii/Drummond)
 - **Description:** Example of an international monorepo with form registration using Firebase Auth for authentication, NestJS with Swagger for BackEnd with MongoDB.
   
 - **Tech Stack:**
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 
 ## 🌱 Currently Learning
 
