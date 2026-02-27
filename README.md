@@ -14,63 +14,105 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
   
 - **Email:** [zuurc@hotmail.com](mailto:zuurc@hotmail.com)
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack & Expertise
 
-### 👅 Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+### 👨‍💻 Programming Languages
 
-### 📚 Frameworks / Libraries
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat\&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat\&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat\&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat\&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat\&logo=postgresql)
 
-### 🧰 Tools
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
-![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=sentry)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
+---
 
-### 🍽️ Platforms
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azure-devops)
+### ⚛️ Frontend Engineering
 
-### 💻 Databases
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
+![React](https://img.shields.io/badge/-React-333333?style=flat\&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat\&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat\&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat\&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat\&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat\&logo=mui)
+![Ant Design](https://img.shields.io/badge/-AntDesign-333333?style=flat\&logo=ant-design)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat\&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat\&logo=bootstrap)
+![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat\&logo=storybook)
 
+---
+
+### 🧠 Backend & APIs
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat\&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat\&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat\&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat\&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat\&logo=flask)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat\&logo=graphql)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-333333?style=flat\&logo=dotnet)
+![REST API](https://img.shields.io/badge/-REST_API-333333?style=flat)
+
+---
+
+### 🗄️ Databases & Data
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat\&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-333333?style=flat\&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat\&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat\&logo=sqlite)
+![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat\&logo=firebase)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat\&logo=redis)
+![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat\&logo=google-cloud)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat\&logo=prisma)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-333333?style=flat\&logo=dotnet)
+
+---
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat\&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-333333?style=flat\&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat\&logo=github-actions)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat\&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat\&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat\&logo=microsoft-azure)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-333333?style=flat\&logo=azure-devops)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat\&logo=digitalocean)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat\&logo=heroku)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat\&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat\&logo=netlify)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat\&logo=cloudflare)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat\&logo=linux)
+
+---
+
+### 🧪 Testing & Observability
+
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat\&logo=jest)
+![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat\&logo=playwright)
+![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat\&logo=sentry)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat\&logo=swagger)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat\&logo=postman)
+
+---
+
+### 🧩 Architecture & Concepts
+
+* Monorepo (Yarn Workspaces / Lerna)
+* Microservices Architecture
+* Background Jobs (RQ / Workers)
+* Distributed Task Processing
+* Authentication (JWT / OAuth / Firebase Auth)
+* API Design (RESTful & GraphQL)
+* CI/CD Pipelines
+* Event-driven patterns
+* Clean Architecture
+* Domain-driven design principles
+
+---
 
 ## 🔭 Projects
 
