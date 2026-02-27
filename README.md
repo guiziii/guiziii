@@ -75,30 +75,42 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ## 🔭 Projects
 
 ### [Fe-components](https://github.com/Guiziii/fe-components)
-- **Description:** A library of reusable and customizable frontend components designed to streamline development and enhance user experience.
+- **Description:** fe-components is a library of reusable and customizable frontend components designed to streamline development and enhance user experience. Built with modern web technologies, it offers responsive, accessible, and highly customizable components. With TypeScript support and built-in theming.
   
 - **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 
 ### [Facial Recognition API](https://github.com/guiziii/Facial-Recognition-API)
-- **Description:** Python API Script that analyzes two pictures and then say if it is the same person.
+- **Description:** FacialRecognition is a Python-based computer vision project that performs real-time face detection and recognition using machine learning techniques. It leverages image processing libraries to identify and classify faces from live camera input or images, serving as a foundation for biometric authentication and intelligent vision systems.
   
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
 ### [Translation API](https://github.com/guiziii/Translation-API)
-- **Description:** API for translating text using various translation services.
+- **Description:** Translation API is a lightweight RESTful service built with Flask that provides text translation capabilities through a simple HTTP interface. Designed for fast deployment and minimal setup, it serves as a backend microservice for applications requiring language translation functionality.
   
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
 ### [Jarvis AI Voice Assistant](https://github.com/Guiziii/Jarvis)
-- **Description:** Virtual assistant created to access websites with voice commands and interact with ChatGPT.
+- **Description:** Jarvis is a wake-word voice assistant built for macOS that listens for a trigger word, records audio, transcribes speech using Whisper, routes commands through OpenClaw, and responds via text-to-speech. Designed with secure, environment-based configuration, it supports scalable voice-driven automation workflows.
   
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ### [Drummond Monorepo](https://github.com/Guiziii/Drummond)
-- **Description:** Example of an international monorepo with form registration using Firebase Auth for authentication, NestJS with Swagger for BackEnd with MongoDB.
+- **Description:** Drummond is a full-stack form registration platform built with a modern monorepo architecture using NestJS, MongoDB, and React (Vite). The system provides authenticated access via Firebase, secure API endpoints documented with Swagger, and a responsive UI built with MUI.
   
 - **Tech Stack:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+
+
+### [Posterr](https://github.com/Guiziii/Posterr)
+- **Description:** Posterr is a full-stack application built with React.js (TypeScript) and .NET (C#), leveraging SQL Server and Entity Framework for structured relational data management. The project is fully containerized, version-controlled with clean Git history, and designed to demonstrate architectural clarity, API-layer separation, and database normalization.
+  
+- **Tech Stack:**
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework-8C3D65?logo=dotnet&logoColor=white)
+![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ## 🌱 Currently Learning
 
