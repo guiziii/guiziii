@@ -81,12 +81,12 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ### [Facial Recognition API](https://github.com/guiziii/Facial-Recognition-API)
 - **Description:** Python API Script that analyzes two pictures and then say if it is the same person.
   
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
 ### [Translation API](https://github.com/guiziii/Translation-API)
 - **Description:** API for translating text using various translation services.
   
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
 ### [Jarvis AI Voice Assistant](https://github.com/Guiziii/Jarvis)
 - **Description:** Virtual assistant created to access websites with voice commands and interact with ChatGPT.
