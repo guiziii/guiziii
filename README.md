@@ -78,23 +78,17 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
   
 - **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
-### [Facial Recognition](https://github.com/Guiziii/FacialRecognition)
+### [Facial Recognition API](https://github.com/guiziii/Facial-Recognition-API)
 - **Description:** Python API Script that analyzes two pictures and then say if it is the same person.
   
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-### [Flask API](https://github.com/Guiziii/flask)
-- **Description:** Flask-based web application.
-  
-- **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-### [Translation API](https://github.com/Guiziii/translationAPI)
+### [Translation API](https://github.com/guiziii/Translation-API)
 - **Description:** API for translating text using various translation services.
   
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-
-### [ChatGPT Listener](https://github.com/Guiziii/ChatGPTListener)
+### [Jarvis AI Voice Assistant](https://github.com/Guiziii/Jarvis)
 - **Description:** Virtual assistant created to access websites with voice commands and interact with ChatGPT.
   
 - **Tech Stack:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
