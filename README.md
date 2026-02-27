@@ -119,7 +119,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ### 📁 [Fe-components](https://github.com/Guiziii/fe-components)
 - **Description:** fe-components is a library of reusable and customizable frontend components designed to streamline development and enhance user experience. Built with modern web technologies, it offers responsive, accessible, and highly customizable components. With TypeScript support and built-in theming.
   
-- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
+- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat\&logo=storybook)
 
 ### 📁 [Facial Recognition API](https://github.com/guiziii/Facial-Recognition-API)
 - **Description:** FacialRecognition is a Python-based computer vision project that performs real-time face detection and recognition using machine learning techniques. It leverages image processing libraries to identify and classify faces from live camera input or images, serving as a foundation for biometric authentication and intelligent vision systems.
@@ -150,9 +150,9 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 - **Tech Stack:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework-8C3D65?logo=dotnet&logoColor=white)
-![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-333333?logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework-333333?logo=dotnet&logoColor=white)
+![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-333333)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ---
 
