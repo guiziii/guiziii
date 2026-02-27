@@ -140,7 +140,8 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 - **Description:** Drummond is a full-stack form registration platform built with a modern monorepo architecture using NestJS, MongoDB, and React (Vite). The system provides authenticated access via Firebase, secure API endpoints documented with Swagger, and a responsive UI built with MUI.
   
 - **Tech Stack:**
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=Firebase&logoColor=ffcd34)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Firebase](https://img.shields.io/badge/Firebase_Authentication-333333?style=flat&logo=firebase&logoColor=FFF)
 
 
 ### 📁 [Posterr - Tech assessment](https://github.com/Guiziii/Posterr)
