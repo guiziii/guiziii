@@ -49,6 +49,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 
 ### 🍽️ Platforms
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
@@ -76,7 +77,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ### [Fe-components](https://github.com/Guiziii/fe-components)
 - **Description:** A library of reusable and customizable frontend components designed to streamline development and enhance user experience.
   
-- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 
 ### [Facial Recognition API](https://github.com/guiziii/Facial-Recognition-API)
 - **Description:** Python API Script that analyzes two pictures and then say if it is the same person.
