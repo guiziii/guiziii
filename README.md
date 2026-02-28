@@ -141,7 +141,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
   
 - **Tech Stack:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![Firebase](https://img.shields.io/badge/Firebase_Authentication-333333?style=flat&logo=firebase&logoColor=FFF)
+![Firebase](https://img.shields.io/badge/Firebase_Authentication-333333?style=flat&logo=firebase&logoColor=FFF) ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat\&logo=mui)
 
 
 ### 📁 [Posterr - Tech assessment](https://github.com/Guiziii/Posterr)
@@ -154,6 +154,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework-333333?logo=dotnet&logoColor=white)
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-333333)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat\&logo=mui)
 ---
 
 ## ⚙️ Analytics 
