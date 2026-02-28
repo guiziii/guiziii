@@ -13,8 +13,11 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 - **LinkedIn:** [Guilherme Cruz](https://www.linkedin.com/in/guilherme-cruz-a6146a72/)
   
 - **Email:** [zuurc@hotmail.com](mailto:zuurc@hotmail.com)
+---
 
-## 🛠️ Tech Stack & Expertise
+<h2 align="center">🛠️ Tech Stack & Expertise</h2>
+
+---
 
 ### 👨‍💻 Programming Languages
 
@@ -111,11 +114,11 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 * Event-driven patterns
 * Clean Architecture
 * Domain-driven design principles
-
 ---
 
-## 🔭 Projects
+<h2 align="center">🔭 Projects</h2>
 
+---
 ### 📁 [Fe-components](https://github.com/Guiziii/fe-components)
 - **Description:** fe-components is a library of reusable and customizable frontend components designed to streamline development and enhance user experience. Built with modern web technologies, it offers responsive, accessible, and highly customizable components. With TypeScript support and built-in theming.
   
@@ -158,7 +161,9 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat\&logo=tailwind-css)
 ---
 
-## ⚙️ Analytics 
+<h2 align="center">⚙️ Analytics </h2>
+
+---
 
 <p align="left">
   <a href="https://github.com/Guiziii">
@@ -174,5 +179,8 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ## 🌱 Currently Learning
 
 - Machine Learning with Python
+
+
+
 
 
