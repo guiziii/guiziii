@@ -155,6 +155,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-333333)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat\&logo=mui)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat\&logo=tailwind-css)
 ---
 
 ## ⚙️ Analytics 
