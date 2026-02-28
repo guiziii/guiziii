@@ -101,7 +101,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 
 ### 🧩 Architecture & Concepts
 
-* Monorepo (Yarn Workspaces / Lerna)
+* Monorepos
 * Microservices Architecture
 * Background Jobs (RQ / Workers)
 * Distributed Task Processing
