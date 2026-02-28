@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://trello-attachments.s3.amazonaws.com/5d7e8031eaec3e42c24aade0/5f0a309642c1865c609c1cac/90786249d0f501a332057f8db5f01ac3/bc9853a836254c4e926b405fa665ba19.gif" alt="Development GIF">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVqcjN6dDVzc3I3MGNjcHNvNXFuazcydXhvY3R4czNveDg0aDY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Development GIF">
 </p>
 
 # Welcome! 👋
@@ -15,7 +15,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 - **Email:** [zuurc@hotmail.com](mailto:zuurc@hotmail.com)
 ---
 
-<h2 align="center">🛠️ Tech Stack & Expertise</h2>
+<h2 align="center"> 🛠️ Tech Stack & Expertise</h2>
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 * Domain-driven design principles
 ---
 
-<h2 align="center">🔭 Projects</h2>
+<h2 align="center"> 🔭 Projects</h2>
 
 ---
 ### 📁 [Fe-components](https://github.com/Guiziii/fe-components)
@@ -161,7 +161,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat\&logo=tailwind-css)
 ---
 
-<h2 align="center">⚙️ Analytics </h2>
+<h2 align="center"> ⚙️ Analytics </h2>
 
 ---
 
@@ -176,8 +176,11 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
   </a>
 </p>
 
-## 🌱 Currently Learning
+---
 
+<h2 align="center"> 🌱 Currently Learning</h2>
+
+---
 - Machine Learning with Python
 
 
