@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVqcjN6dDVzc3I3MGNjcHNvNXFuazcydXhvY3R4czNveDg0aDY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Development GIF">
-</p>
-
 # Welcome! 👋
 
 Hi there! I'm Guilherme Cruz, a passionate developer with a keen interest in innovative solutions. 
