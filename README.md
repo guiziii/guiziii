@@ -158,6 +158,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat\&logo=Swagger)
 ![TanStack Query](https://img.shields.io/badge/-React--Query-333333?style=flat&logo=react-query&logoColor=white)
 ![zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat\&logo=github-actions)
 ![xUnit](https://img.shields.io/badge/-xUnit-333333?style=flat\&logo=xUnit)
 ---
 
