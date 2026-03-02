@@ -140,7 +140,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
   
 - **Tech Stack:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
-![Firebase](https://img.shields.io/badge/Firebase_Authentication-333333?style=flat&logo=firebase&logoColor=FFF) ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat\&logo=mui)
+![Firebase](https://img.shields.io/badge/Firebase_Authentication-333333?style=flat&logo=firebase&logoColor=FFF) ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat\&logo=mui) ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat\&logo=Swagger)
 
 
 ### 📁 [Posterr - Tech assessment](https://github.com/Guiziii/Posterr)
@@ -155,6 +155,10 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat\&logo=mui)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat\&logo=tailwind-css)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat\&logo=Swagger)
+![TanStack Query](https://img.shields.io/badge/-React--Query-333333?style=flat&logo=react-query&logoColor=white)
+![zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod&logoColor=white)
+![xUnit](https://img.shields.io/badge/-xUnit-333333?style=flat\&logo=xUnit)
 ---
 
 <h2 align="center"> ⚙️ Analytics </h2>
