@@ -171,7 +171,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
          width="45%"
          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guiziii&layout=compact&langs_count=8&theme=radical"
          alt="Top Languages" />
-    <img height="180em"
+    <img height="181em"
          width="45%"
          src="https://github-readme-streak-stats.herokuapp.com/?user=Guiziii&theme=radical"
          alt="GitHub Streak Stats" />
