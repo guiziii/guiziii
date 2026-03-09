@@ -183,27 +183,27 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 
   <p align="center">
 <a href="https://github.com/Guiziii/fe-components">
-<img width="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=fe-components&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+<img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=fe-components&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 
 <a href="https://github.com/Guiziii/Facial-Recognition-API">
-<img width="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Facial-Recognition-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+<img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Facial-Recognition-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 
 <a href="https://github.com/Guiziii/Translation-API">
-<img width="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Translation-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+<img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Translation-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 
 <a href="https://github.com/Guiziii/Jarvis">
-<img width="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Jarvis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+<img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Jarvis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 
 <a href="https://github.com/Guiziii/Drummond">
-<img width="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Drummond&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+<img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Drummond&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 
 <a href="https://github.com/Guiziii/Posterr">
-<img width="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Posterr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+<img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Posterr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 
   </p>
