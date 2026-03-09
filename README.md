@@ -186,13 +186,13 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 <img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=fe-components&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
 </a>
 
-<a href="https://github.com/Guiziii/Facial-Recognition-API">
+<!-- <a href="https://github.com/Guiziii/Facial-Recognition-API">
 <img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Facial-Recognition-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-</a>
+</a> -->
 
-<a href="https://github.com/Guiziii/Translation-API">
+<!-- <a href="https://github.com/Guiziii/Translation-API">
 <img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Translation-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-</a>
+</a> -->
 
 <a href="https://github.com/Guiziii/Jarvis">
 <img width="200rem" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Jarvis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
