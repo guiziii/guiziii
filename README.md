@@ -115,6 +115,7 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
 <h2 align="center"> 🔭 Projects</h2>
 
 ---
+
 ### 📁 [Fe-components](https://github.com/Guiziii/fe-components)
 - **Description:** fe-components is a library of reusable and customizable frontend components designed to streamline development and enhance user experience. Built with modern web technologies, it offers responsive, accessible, and highly customizable components. With TypeScript support and built-in theming.
   
@@ -176,6 +177,52 @@ Welcome to my GitHub profile, where you can explore my latest projects and contr
          src="https://github-readme-streak-stats.herokuapp.com/?user=Guiziii&theme=radical"
          alt="GitHub Streak Stats" />
 </p>
+
+
+
+
+  <p align="center">
+<a href="https://github.com/Guiziii/fe-components">
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=fe-components&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a>
+
+<a href="https://github.com/Guiziii/Facial-Recognition-API">
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Facial-Recognition-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a>
+
+<a href="https://github.com/Guiziii/Translation-API">
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Translation-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a>
+
+<a href="https://github.com/Guiziii/Jarvis">
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Jarvis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a>
+
+<a href="https://github.com/Guiziii/Drummond">
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Drummond&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a>
+
+<a href="https://github.com/Guiziii/Posterr">
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Guiziii&repo=Posterr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</a>
+
+  </p>
+
+
+
+
+  <p>
+    <img 
+      alt="Guiziii Activity Graph" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Guiziii&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
+    />
+  </p>
+
+<a href="https://github.com/Guiziii?tab=repositories">
+<img alt="All Repositories" title="All Repositories"
+src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
+
 
 ---
 
