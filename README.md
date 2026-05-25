@@ -225,13 +225,3 @@ src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My
 
 
 ---
-
-<h2 align="center"> 🌱 Currently Learning</h2>
-
----
-- Machine Learning with Python
-
-
-
-
-
